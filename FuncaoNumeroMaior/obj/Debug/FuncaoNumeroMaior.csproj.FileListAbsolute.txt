@@ -1,0 +1,8 @@
+C:\Users\wesle\source\repos\FuncaoNumeroMaior\FuncaoNumeroMaior\bin\Debug\FuncaoNumeroMaior.exe.config
+C:\Users\wesle\source\repos\FuncaoNumeroMaior\FuncaoNumeroMaior\bin\Debug\FuncaoNumeroMaior.exe
+C:\Users\wesle\source\repos\FuncaoNumeroMaior\FuncaoNumeroMaior\bin\Debug\FuncaoNumeroMaior.pdb
+C:\Users\wesle\source\repos\FuncaoNumeroMaior\FuncaoNumeroMaior\obj\Debug\FuncaoNumeroMaior.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\FuncaoNumeroMaior\FuncaoNumeroMaior\obj\Debug\FuncaoNumeroMaior.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\source\repos\FuncaoNumeroMaior\FuncaoNumeroMaior\obj\Debug\FuncaoNumeroMaior.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\FuncaoNumeroMaior\FuncaoNumeroMaior\obj\Debug\FuncaoNumeroMaior.exe
+C:\Users\wesle\source\repos\FuncaoNumeroMaior\FuncaoNumeroMaior\obj\Debug\FuncaoNumeroMaior.pdb
